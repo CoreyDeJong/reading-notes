@@ -1,8 +1,8 @@
 # Ducket HTML Book
 
 ## Text (Chapter 2)
- - structural markup: the elements that you can use to describe both headings and paragraphs examples: <h1> <body>
- - Semantic markup: extra information, emphasis, quotations and who said it, meaning of acronyms,...examples: <em>, <strong>
+ - structural markup: the elements that you can use to describe both headings and paragraphs examples: ```<h1> <body>```
+ - Semantic markup: extra information, emphasis, quotations and who said it, meaning of acronyms,...examples: ```<em>, <strong>```
  - white space will be treated as a single space regardless of amount of spaces and lines
  - Visual editors are similar to word processors (example: microsoft word)
  - Code views show you the code created by the visual editor so you can manually edit it.
