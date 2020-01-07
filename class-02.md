@@ -43,6 +43,6 @@
 ## Basic JavaScript Instructions (Chapter 4, p 145-162)
  - Decisions will either evaluate an expression and return a value or have a conditional statement on what to do.
  - Comparison operators usually return single values of true or false
- - && requires both comparisons to be true
- - || only requires one comparison to be true
- - ! is the opposite
+ - ``&&`` requires both comparisons to be true
+ - ``||`` only requires one comparison to be true
+ - ``!`` is the opposite
