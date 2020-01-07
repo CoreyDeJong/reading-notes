@@ -7,7 +7,7 @@ This website is a collection of notes from the John Duckett books: Html & CSS, J
 |Day  |Link                 |
 |-----|---------------------|
 |1    | [class-01](https://coreydejong.github.io/reading-notes/class-01)                 |
-|2    |                     |
+|2    | [class-02](https://coreydejong.github.io/reading-notes/class-02)                 |
 |3    |                     |
 |4    |                     |
 |5    |                     |
