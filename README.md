@@ -10,7 +10,7 @@ This website is a collection of notes from the John Duckett books: Html & CSS, J
 |2    | [class-02](class-02.md) |
 |3    | [class-03](class-03.md) |
 |4    | [class-04](class-04.md)                    |
-|5    |                     |
+|5    | [class-05](class-05.md)                     |
 |6    |                     |
 |7    |                     |
 |8    |                     |
