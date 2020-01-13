@@ -18,3 +18,13 @@
  - __API__ Application Programming Interface lets programs and scripts talk to each other.
  - __Nodes__ as a browser loads a web page, it creates a mode of that web page. this model is called a DOM tree and it is stored in the browsers memory and has 4 types of nodes: __Document Node__, __Element Nodes__, __Attribute Nodes__, and __Text Nodes__.
  -__DOM Queries__ methods that find elements in the DOM tree. When you need to work with an element more than once, you should use a variable to store the result of the query. 
+ - ``getElementById(h1)`` is one of the most common ways to select an individual element node.
+    - ``document``is the object
+    - ``getElementById('h1')`` is the method
+    - ``'h1'`` is the parameter
+ - ``nodelist`` is multiple elements
+    - ``item()`` will let you select an element from a nodelist
+ - ``getElementsByTagName('li')``
+ - ``getElementsByClassName('fruit')``
+ - ``querySelectorAll('li[bananas]')``
+ - __innerHTML property__ will retrieve and replace content
