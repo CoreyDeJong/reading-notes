@@ -15,8 +15,8 @@
 ### Tables (Chapter 6, pages 126-145)
  - ``<table>``
  - ``<th>`` table heading, treated as a row
- - ``<tr>`` start of each row
- - ``<td>`` each cell of that row
+ - ``<tr>`` table row, start of each row
+ - ``<td>`` table data, each cell of that row
  - __span__ has the effect of merging across multiple columns or rows
     - ``<td rowspan="2">Geography</td>`` will span/merge across two rows
     - ``<td colspan="2">Geography</td>`` will span/merge across two columns
