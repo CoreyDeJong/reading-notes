@@ -1,0 +1,21 @@
+## Ducket JS Book
+### Error Handling & Debugging (Chapter 10)
+ - __Global vs. Local Variables__ local variables defined within a function will only be known within that function.
+ - __Prepare vs Execute__ assign values and defining storage locations need to be defined be execute functions that need to use these variables.
+ - __Exception__ is an error that causes your code to stop processing
+ - __Errors__ there are seven. TypeError is an unexpected data type that cannot be coerced. 
+ - __Token__ is a bracket, parantheses,...that is missing or is incorrect.
+ - __F12__ is a shortcut to the console on a browser
+ - __Testing Code in Chrome__ you can test code in a web browser in the elments section
+ - __console.info()__ can be used for general information.
+ - __console.warn()__ can be used for warnings
+ - __console.error()__ can be used to hold errors
+ - __console.group()__ will be used to console multiple entries of data.
+ - __console.table()__ will show a table of data
+ - __console.assert()__ can be written to determine if a condition is met within a method
+ - __breakpoints__ you can pause the execution of a script by clicking on it in the sources tab in a browser. If you set multiple breakpoints, you can run the code to and through these breakpoints using the pause, step into, step out buttons. You can also create conditions at these breakpoints to further test the functionality of the code. The word __debugger__ can be inserted into the code and this will act the same as a breakpoint.
+ - __Try, Catch, Finally__ can be programmed into your code to test certain conditions
+ - __Throwing Errors__ is a way to send a message to the user that if their input is invalid, it will prompt them.
+ - __jslint.com__ will help you find errors in your javascript code
+ - __Common Errors__
+    - undefined is not the sam as null. null is for objects. undefined is for properties, methods or variables.
