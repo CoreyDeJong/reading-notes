@@ -2,7 +2,7 @@
 #### Flash, Video, Audio (Chapter 9, pages 201-206)
  - Flash is used for playing audio and video
  - Flash was originally created for animations
- - HTML5 tags of <audio> and <video> were created in 2008.
+ - HTML5 tags of ``<audio>`` and ``<video>`` were created in 2008.
 
 #### Images (Chapter 16, pages 406-427)
  - __float__ is used to have text float around the images on either the left or right side.
@@ -26,8 +26,8 @@
  - __FTP File Transfer Protocol__ is to transfer your files from your computer to the hosting company
 
 #### MDN article on audio and video elements
- - place the entire video and controls in one <div>
- - the <video> element contains two <source> elements so that different formats can be loaded depending on the browser
+ - place the entire video and controls in one ``<div>``
+ - the ``<video>`` element contains two ``<source>`` elements so that different formats can be loaded depending on the browser
  - ``<button>`` for play/pause, stop, rewing and fast forward
  - ``<visibility>`` and ``<opacity>`` are beneficial to aid in the appearance on the video screen
  - an event listener is required for the play/pause button
