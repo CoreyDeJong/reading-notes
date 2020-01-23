@@ -12,6 +12,6 @@
     - rules are needed, but not overbearing
     - goals are clear
  4 - Meaning
-    - what the project is beneficial
+    - that the scope and impact of the project will be beneficial
  5 - Impact
     - the work they are doing will have an impact on the company.
