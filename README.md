@@ -7,17 +7,17 @@
 |SMACCS, Floats, Grids | [read-01](/301/read-01.md) |
 |jQuery    | [read-02](/301/read-02.md) |
 |Flexbox, Handlebars  | [read-03](/301/read-03.md) |
-|4    | [read-04](/301/read-04.md)                    |
-|5    | [read-05](/301/read-05.md)                     |
-|6    | [read-06](/301/read-06.md)                   |
-|7    | [read-07](/301/read-07.md)                    |
-|8    | [read-08](/301/read-08.md)                    |
-|9    | [read-09](/301/read-09.md)                    |
-|10   | [read-10](/301/read-10.md)                    |
-|11   | [read-11](/301/read-11.md)                    |
-|12   | [read-12](/301/read-12.md)                    |
-|13   | [read-13](/301/read-13.md)                    |
-|14   | [read-14](/301/read-14.md)                    |
+|Grid, RegEx    | [read-04](/301/read-04.md)                    |
+|Heroku | [read-05](/301/read-05.md)                     |
+|Node.js  | [read-06](/301/read-06.md)                   |
+|API    | [read-07](/301/read-07.md)                    |
+|SQL    | [read-08](/301/read-08.md)                    |
+|Refractoring    | [read-09](/301/read-09.md)                    |
+|Call Stack   | [read-10](/301/read-10.md)                    |
+|EJS   | [read-11](/301/read-11.md)                    |
+|EJS - Partials  | [read-12](/301/read-12.md)                    |
+|Form Data   | [read-13](/301/read-13.md)                    |
+|Database Normalization   | [read-14](/301/read-14.md)                    |
 |15   | [read-15](/301/read-15.md)                    |
 
 

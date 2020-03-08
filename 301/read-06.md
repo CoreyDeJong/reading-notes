@@ -1,0 +1,12 @@
+## Node.js
+- Node.js is a prorgram we can use to execute JavaScript on our computers.
+- Node.js is a JavaScript, event-based, non-blocking, asynchronous I/O runtime built on Chrome’s V8 JavaScript engine.
+- Node programs are not executed in the browser
+- Node has various features including an API, HTTP library
+- everything that happens in Node is event-driven, so it will only react to an event
+- Node uses the libuv library to implement asynchronous (non-blocking) behavior.
+- Js is single threaded, it can only run one line of code at a time in its call stack. But the browser has access to other web API's that can run callbacks and return back into the call stack. 
+- Call stack is a data structure that records where we are at in executing the js code, the memory of our code
+- blocking is when you have code that runs for a long time and prevents the site from continuing to function. Console.log() and other simple code will not slow the browser, but checking for updates from databases will take time to process and the user will experience a browser that is no longer operating for brief period of time.
+- Callback/Task queue is where tasks are queued waiting for the stack to finish running, the event loop is what brings this code from the queue back into the stack once there is no more tasks in the call stack.
+- Render Queue has priority to run before callback queue
