@@ -28,13 +28,3 @@ __Patter Flags__
 - `/g` = global, will go through all instances, and not stop at the first time there is a match
 - `/i` = insensitive, case insensitive
 
-
-
-## Built-in Javascript
-
-* data validation (for example check if a time string i well-formed)
-* data scraping (especially web scraping, find all pages that contain a certain set of words eventually in a specific order)
-* data wrangling (transform data from “raw” to another format)
-* string parsing (for example catch all URL GET parameters, capture text inside a set of parenthesis)
-* string replacement (for example, even during a code session using a common IDE to translate a Java or C# class in the respective JSON object — replace “;” with “,” make it lowercase, avoid type declaration, etc.)
-* syntax highlightning, file renaming, packet sniffing and many other applications involving strings (where data need not be textual)
