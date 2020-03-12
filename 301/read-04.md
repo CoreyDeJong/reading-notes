@@ -11,20 +11,27 @@ Key Terms
 * Grid Area - a defined accumulation of cells defined by a custom set of multiple grid lines.
 
 ## RegExr (Regualar Expressions)
- - Regex are extremely useful in extracting information from any text by searching for one or more matches of a specific pattern
-For Example:
-^The        matches any string that starts with The -> Try it!
-end$        matches a string that ends with end
-^The end$   exact string match (starts and ends with The end)
-roar        matches any string that has the text roar in it
-
-3 main purposes
-1. Testing
-
-* Built-in Javascript
+- Regex are extremely useful in extracting information from any text by searching for one or more matches of a specific pattern
+- [] anything within brackets will be tested
+- () everything within the parantheses must match exactly
+- (?)will make anything match or not match
+- anything not in () or [] will be required
 
 
-Summary:
+3 methods to use with regex
+1)regex.test(str). Returns true or false
+2) str.match(bananas); will go through the bananas and return an array of all the matches
+3) str.replace(regex, thing to replace it with), will return the new string
+
+__Patter Flags__
+`Patter flags` after the last `/` to determine how will impact the entire expression
+- `/g` = global, will go through all instances, and not stop at the first time there is a match
+- `/i` = insensitive, case insensitive
+
+
+
+## Built-in Javascript
+
 * data validation (for example check if a time string i well-formed)
 * data scraping (especially web scraping, find all pages that contain a certain set of words eventually in a specific order)
 * data wrangling (transform data from “raw” to another format)
